@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  gap: 1.5rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+  line-height: 1.8;
+}
